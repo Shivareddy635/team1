@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-10T12:12:34 IST" name="Default suite" finished-at="2022-03-10T12:12:35 IST" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2022-03-10T12:12:34 IST" name="Default test" finished-at="2022-03-10T12:12:35 IST" duration-ms="53">
+      <class name="testNGporamdemo.Annotations">
+        <test-method is-config="true" signature="setproperty()[pri:0, instance:testNGporamdemo.Annotations@25084a1e]" started-at="2022-03-10T12:12:34 IST" name="setproperty" finished-at="2022-03-10T12:12:34 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setproperty -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testNGporamdemo.Annotations@25084a1e]" started-at="2022-03-10T12:12:34 IST" name="launchBrowser" finished-at="2022-03-10T12:12:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="enterurl()[pri:0, instance:testNGporamdemo.Annotations@25084a1e]" started-at="2022-03-10T12:12:34 IST" name="enterurl" finished-at="2022-03-10T12:12:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterurl -->
+        <test-method is-config="true" signature="getURL()[pri:0, instance:testNGporamdemo.Annotations@25084a1e]" started-at="2022-03-10T12:12:34 IST" name="getURL" finished-at="2022-03-10T12:12:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method signature="checktitle()[pri:0, instance:testNGporamdemo.Annotations@25084a1e]" started-at="2022-03-10T12:12:34 IST" name="checktitle" finished-at="2022-03-10T12:12:34 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktitle -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testNGporamdemo.Annotations@25084a1e]" started-at="2022-03-10T12:12:34 IST" name="logout" finished-at="2022-03-10T12:12:35 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testNGporamdemo.Annotations@25084a1e]" started-at="2022-03-10T12:12:35 IST" name="closebrowser" finished-at="2022-03-10T12:12:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="checkresults()[pri:0, instance:testNGporamdemo.Annotations@25084a1e]" started-at="2022-03-10T12:12:35 IST" name="checkresults" finished-at="2022-03-10T12:12:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkresults -->
+      </class> <!-- testNGporamdemo.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
